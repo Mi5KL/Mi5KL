@@ -1,5 +1,6 @@
 draw boy idea man
-Check out Platypunk launching fall 2037!!
+
+check out Platypunk launching fall 2037!!
 
 <!---
 Mi5KL/Mi5KL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
