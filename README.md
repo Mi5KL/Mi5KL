@@ -1,4 +1,4 @@
-draw boy idea man
+drawer and idea person
 
 check out Platypunk launching fall 2037!!
 
